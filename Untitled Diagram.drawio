@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-24T00:02:50.618Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="ixjVO9YUUZ66VCvZ4Bp1" version="13.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-24T00:03:14.862Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="GQ4B5a_vy3XB8pWNwDNf" version="13.6.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="944" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -90,7 +90,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CWGT0NXKtXCot0AyJV4v-33" value="&lt;p style=&quot;line-height: 140%&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;更新範圍最大值：猜數字 - 1&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;最小值不變&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;span&gt;新範圍：最小值 到 (猜數字 - 1)&lt;/span&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="420" width="240" height="80" as="geometry" />
+          <mxGeometry x="500" y="400" width="240" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
